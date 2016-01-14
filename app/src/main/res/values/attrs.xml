@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PullZoomView">
+        <attr name="zoomview" format="reference" />
+        <attr name="headview" format="reference" />
+        <attr name="contentview" format="reference" />
+    </declare-styleable>
+</resources>

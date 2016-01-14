@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">pullzoom</string>
+    <string name="summary">Mac OS X“本地权限提升漏洞”（DYLD_PRINT_TO_FILE）风波刚刚被苹果公司平息，新的类似
+        漏洞又被发现。利用该漏洞，黑客可以在不使用密码的情况下访问操作系统，获得超级用户权限，安装任意恶意程序，用户
+        隐私将遭受重大威胁。 </string>
+</resources>
